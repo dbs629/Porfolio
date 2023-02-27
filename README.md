@@ -1,4 +1,4 @@
-# Porfolio
+# Product sales
 The company releases new sales methods of product line including phone, email and the combination of the two
 Goal:
 Data validation:
